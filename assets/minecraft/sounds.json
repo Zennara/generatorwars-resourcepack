@@ -1,11 +1,15 @@
 {
   "block.trial_spawner.ambient": {
     "replace": true,
-    "sounds": []
+    "sounds": [
+      { "name": "block/trial_spawner/ambient", "stream": true }
+    ]
   },
   "block.trial_spawner.ambient_ominous": {
     "replace": true,
-    "sounds": []
+    "sounds": [
+      { "name": "block/trial_spawner/ambient_ominous", "stream": true }
+    ]
   },
   "block.vault.ambient": {
     "replace": true,
