@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "GenWars sound overrides (silences ominous trial spawner/vault ambient crackle)",
+    "min_format": 84,
+    "max_format": 84
+  }
+}
